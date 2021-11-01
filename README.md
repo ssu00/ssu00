@@ -16,6 +16,7 @@
 </h4>
 </p><br/><br/>
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssu00&layout=compact&theme=dracula"/></p><br/><br/>
 <p><img src="https://github-readme-stats.vercel.app/api?username=ssu00&&show_icons=true&theme=dracula"/></p>
 
 <!--
