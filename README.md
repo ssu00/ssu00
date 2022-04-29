@@ -12,7 +12,7 @@
 <h3 align="left">💡WHAT'S IN MY PROJECT?💡</h3>
 <p>
 <h4>2021.03~2021.06 &nbsp &nbsp &nbsp<a href="https://github.com/Buravel/Front">Buravel</a></h4>
-<h4>2021.10~2021.12 &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<a href="https://github.com/2021-2-DB-VACCINATION/vaccination">COVID-19 접종 예약 사이트</a>
+<h4>2021.10~2021.12 &nbsp &nbsp &nbsp<a href="https://github.com/2021-2-DB-VACCINATION/vaccination">COVID-19 접종 예약 사이트</a>
 <h4>2022.01~ &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<a href="https://github.com/Dev-Mentoring-Platform">Mentoridge</a>
 </h4>
 </p><br/><br/>
